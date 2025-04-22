@@ -2,13 +2,13 @@
 seeds = false
 
 [programs.localnet]
-chain_signatures_project = "4uvZW8K4g4jBg7dzPNbb9XDxJLFBK7V6iC76uofmYvEU"
+chain_signatures_project = "4kZoBXmUBLveRS3sboGF557tYsR7SzLDsWmP4sz7VQEs"
 
 [programs.devnet]
-chain_signatures_project = "4uvZW8K4g4jBg7dzPNbb9XDxJLFBK7V6iC76uofmYvEU"
+chain_signatures_project = "4kZoBXmUBLveRS3sboGF557tYsR7SzLDsWmP4sz7VQEs"
 
 [programs.testnet]
-chain_signatures_project = "4uvZW8K4g4jBg7dzPNbb9XDxJLFBK7V6iC76uofmYvEU"
+chain_signatures_project = "4kZoBXmUBLveRS3sboGF557tYsR7SzLDsWmP4sz7VQEs"
 
 [registry]
 url = "https://anchor.projectserum.com"

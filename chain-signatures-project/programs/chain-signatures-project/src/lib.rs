@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use anchor_spl::token::{self, Token};
 
-declare_id!("4uvZW8K4g4jBg7dzPNbb9XDxJLFBK7V6iC76uofmYvEU");
+declare_id!("4kZoBXmUBLveRS3sboGF557tYsR7SzLDsWmP4sz7VQEs");
 
 #[program]
 pub mod chain_signatures_project {
