@@ -68,6 +68,7 @@ async function main() {
   });
   anchor.setProvider(provider);
 
+  console.log(IDL.address)
   const program = new Program<ChainSignaturesProject>(IDL, provider);
 
   const [programStatePDA, bump] = PublicKey.findProgramAddressSync(

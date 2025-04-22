@@ -5,7 +5,7 @@
  * IDL can be found at `target/idl/chain_signatures_project.json`.
  */
 export type ChainSignaturesProject = {
-  "address": "4uvZW8K4g4jBg7dzPNbb9XDxJLFBK7V6iC76uofmYvEU",
+  "address": "CMGYAEsqXw5z52R8fmMZwPYQARHPEkGbefJA2FmeHLMh",
   "metadata": {
     "name": "chainSignaturesProject",
     "version": "0.1.0",
